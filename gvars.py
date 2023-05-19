@@ -17,7 +17,7 @@ limitOrderMargin = 0.1 # percentage that defines the offset for the limit orders
 
 # YOUR API KEYS AT ALPACA GO HERE!
 API_KEY = ""
-API_SECRET_KEY = ""
+API_SECRET_KEY = "AK2VQ4HGP1GUBVGFIK1O"
 ALPACA_API_URL = "https://paper-api.alpaca.markets"
 
 # this block checks whether you have your keys written or not
